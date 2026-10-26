@@ -9,6 +9,21 @@ Developed using Python and Streamlit, the application combines data analysis, pr
 
 The project demonstrates how machine learning and analytical techniques can be applied to energy monitoring in educational institutions.
 
+## Live Demo
+
+Explore the live version of EcoSense AI, an interactive campus energy monitoring and analytics application.
+
+**[Launch EcoSense AI Dashboard](https://ecosense-ai-campus-energy.streamlit.app/)**
+
+The application provides:
+- Campus energy consumption monitoring
+- Interactive energy analytics
+- Machine learning-based predictions
+- Anomaly detection
+- Energy optimization recommendations
+- Comprehensive energy reports
+
+
 ## Key Features
 
 **Energy Monitoring**
